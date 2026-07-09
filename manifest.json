@@ -1,0 +1,18 @@
+{
+  "name": "井冈山红色文化展示平台",
+  "short_name": "井冈山红色文化",
+  "description": "井冈山红色故事、表情包、代表人物展示平台",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDFBF7",
+  "theme_color": "#C41E3A",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
